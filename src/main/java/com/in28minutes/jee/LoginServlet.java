@@ -1,4 +1,4 @@
-package webapp;
+package com.in28minutes.jee;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
