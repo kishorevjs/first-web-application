@@ -36,7 +36,7 @@
                     <configuration>
                         <path>/</path>
                         <contextReloadable>true</contextReloadable>
-                        <port>9006</port>
+                        <port>8082</port>
                     </configuration>
                 </plugin>
             </plugins>
