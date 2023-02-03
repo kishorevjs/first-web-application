@@ -41,7 +41,7 @@
                     <configuration>
                         <path>/</path>
                         <contextReloadable>true</contextReloadable>
-                        <port>8086</port>
+                        <port>8088</port>
                     </configuration>
                 </plugin>
             </plugins>
